@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #f1f1f1;
+    color: #0f141e;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+}
+h2 {
+    color: rgb(0, 179, 255);
+}
+.photo {
+    border-radius: 35px;
+    width: 250px;
+    height: 200px;
+    box-shadow: 4px 4px 14px 15px ;
+}
+.info p {
+    color:#70daca;
+    margin: 3;
+}
+.info strong {
+    color:rgba(204, 142, 9, 0.548);
+    margin: 0
+}
+.save {
+color: rgb(142, 157, 70)
+}
+hr {
+    border: 1px solid rgb(217, 0, 255)
+}
+/* sdasdasdsa */
